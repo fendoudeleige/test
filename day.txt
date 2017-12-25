@@ -2,4 +2,8 @@ merry christmas
 aiosdfiaeirhw
 aisbdfui
 tuisongdaodevfenzhi
+<<<<<<< HEAD
 hhhh
+=======
+asjbdfg
+>>>>>>> master
