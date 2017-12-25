@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 asd;khf;iasdhbfkjba
+=======
+aishdffhiqajascbviadhgkndeaifq
+>>>>>>> dev
